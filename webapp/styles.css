@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: lemonchiffon;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: bisque;
+}
+table, th, td {
+    border: 1px solid rgb(222, 119, 119);
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+th {
+    background-color: #b48282;
+}
+.form-container {
+    margin-bottom: 20px;
+}
+.form-container input[type="text"] {
+    padding: 5px;
+    margin-right: 10px;
+}
+.form-container button {
+    padding: 5px 10px;
+}
